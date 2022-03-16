@@ -1,0 +1,9 @@
+[2022-03-16 07:38:14.952] [remoteagent] [info] Extension host agent started.
+[2022-03-16 07:38:15.050] [remoteagent] [info] [127.0.0.1][a5d87b78][ManagementConnection] New connection established.
+[2022-03-16 07:38:15.467] [remoteagent] [info] [127.0.0.1][f6138fa1][ExtensionHostConnection] New connection established.
+[2022-03-16 07:38:15.495] [remoteagent] [info] [127.0.0.1][f6138fa1][ExtensionHostConnection] <173> Launched Extension Host Process.
+[2022-03-16 09:34:02.527] [remoteagent] [info] [127.0.0.1][756dfcd6][ManagementConnection] New connection established.
+[2022-03-16 09:34:02.765] [remoteagent] [info] [127.0.0.1][6558654e][ExtensionHostConnection] New connection established.
+[2022-03-16 09:34:02.777] [remoteagent] [info] [127.0.0.1][6558654e][ExtensionHostConnection] <724> Launched Extension Host Process.
+[2022-03-16 09:39:07.518] [remoteagent] [info] [127.0.0.1][6558654e][ExtensionHostConnection] <724> [0mGET /favicon.ico [33m404[0m 1.742 ms - 150[0m
+
